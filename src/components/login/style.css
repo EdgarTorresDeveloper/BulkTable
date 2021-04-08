@@ -1,0 +1,15 @@
+#row:hover{
+    background-color: #CCCCCC;
+    cursor: pointer;
+}
+#bulkTable__content{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: red;
+}
+.bulkTable__headers{
+    background-color: #CCCCCC;
+}
+.bulkTable__card{
+    /*max-height: 240px;
+    min-height: 240px;*/
+}

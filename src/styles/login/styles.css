@@ -1,0 +1,11 @@
+#login__content{
+    width: 50%;
+    margin-left: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+    #username, #password{
+        margin-top: 20px;
+    }
+    #submit{
+        margin-top: 10px;
+    }
